@@ -48,7 +48,7 @@ JavaScript (ES6) – Functionality (search & filtering)
 
 🙋‍♀️ Author
 
-
+Manaswini Sasmal
 
 👩‍💻 Frontend Developer | React Enthusiast
 
